@@ -34,8 +34,13 @@ Questions for practice picked from Leetcode & Geeks for Geeks.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tush-tr/ps-practice-to-code/tree/master/0001-two-sum) |
+| [2792-neighboring-bitwise-xor](https://github.com/tush-tr/ps-practice-to-code/tree/master/2792-neighboring-bitwise-xor) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tush-tr/ps-practice-to-code/tree/master/0001-two-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2792-neighboring-bitwise-xor](https://github.com/tush-tr/ps-practice-to-code/tree/master/2792-neighboring-bitwise-xor) |
 <!---LeetCode Topics End-->
