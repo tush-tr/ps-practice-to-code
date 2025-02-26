@@ -34,15 +34,21 @@ Questions for practice picked from Leetcode & Geeks for Geeks.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tush-tr/ps-practice-to-code/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/tush-tr/ps-practice-to-code/tree/master/0217-contains-duplicate) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/tush-tr/ps-practice-to-code/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/tush-tr/ps-practice-to-code/tree/master/2792-neighboring-bitwise-xor) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tush-tr/ps-practice-to-code/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/tush-tr/ps-practice-to-code/tree/master/0217-contains-duplicate) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/tush-tr/ps-practice-to-code/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2792-neighboring-bitwise-xor](https://github.com/tush-tr/ps-practice-to-code/tree/master/2792-neighboring-bitwise-xor) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/tush-tr/ps-practice-to-code/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
